@@ -37,7 +37,7 @@ const dados = {
     labels: ['Filmes Clássicos', 'Filmes Modernos', 'Filmes Independentes'],
     datasets: [{
         label: 'Popularidade dos Filmes de Terror',
-        data: [45, 32, 40],
+        data: [40, 30, 20],
         backgroundColor: [
             'rgba(229, 57, 53, 0.5)',
             'rgba(255, 193, 7, 0.5)',
